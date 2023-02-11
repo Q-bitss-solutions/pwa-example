@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o}from"./index-f6cfe29d.js";const c={name:"Home"},s={class:"text-2xl text-gray-600 text-center"};function n(r,a,_,m,p,x){return t(),o("h1",s,"Home")}const l=e(c,[["render",n]]);export{l as default};
